@@ -2,9 +2,9 @@
 
 Landing Page de uma escola de Jazz chamada Tom's Jazz School
 
-###Tecnologias:
+### Tecnologias:
 
-####-HTML
+#### -HTML
 
-####-CSS
+#### -CSS
 
